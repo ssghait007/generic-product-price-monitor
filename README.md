@@ -1,0 +1,1 @@
+# generic-product-price-monitor
